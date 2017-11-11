@@ -5,5 +5,3 @@ The different thing about this app is that the generated words are not blindly c
 However, since merely seeing a word might not suffice, we generate a random image as the background so that it can relate to the five words appeared on the screen and gives the user potential ideas.
 
 The App is available on the App Store https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1163582348&mt=8
-
-Made by: Jimmy Chen Chen and Ali Mashreghi
